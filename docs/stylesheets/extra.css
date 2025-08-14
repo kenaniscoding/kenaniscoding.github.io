@@ -1,0 +1,26 @@
+
+/* Light Mode */
+blockquote, 
+[data-md-color-scheme="default"] h1 {
+    color: #000000 !important;
+}
+
+/* Light mode: gray background for blockquote */
+[data-md-color-scheme="default"] blockquote {
+    background-color: #f0f0f0; /* light gray */
+    padding: 0.8em 0.8em;
+    border-radius: 6px;
+}
+
+/* Dark mode: darker gray background for blockquote */
+[data-md-color-scheme="slate"] blockquote {
+    background-color: #2a2a2a; /* dark gray */
+    padding: 0.8em 0.8em;    
+    border-radius: 6px;    
+}
+
+/* Dark Mode */
+[data-md-color-scheme="slate"] blockquote,
+[data-md-color-scheme="slate"] h1 {
+    color: #cccccc !important; 
+}

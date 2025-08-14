@@ -1,4 +1,8 @@
-site_name: Kenan's Info Website
+# GUIDE
+# mkdocs build
+# mkdocs serve
+# mkdocs -h
+site_name: Kenan's Website
 theme: # https://www.youtube.com/watch?v=xlABhbnNrfI
   name: material
   font:
@@ -31,10 +35,13 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/solid/envelope
-      link: mailto:yourname@gmail.com
+      link: mailto:banalkenan@gmail.com
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in
+      link: https://www.linkedin.com/in/kenan-banal-1392472a9/
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername
+      link: https://github.com/kenaniscoding
+
+extra_css:
+  - stylesheets/extra.css
 
 copyright: Copyright &copy; 2025 Kenan Banal
