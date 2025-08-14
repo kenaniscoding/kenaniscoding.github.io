@@ -8,8 +8,8 @@ theme: # https://www.youtube.com/watch?v=xlABhbnNrfI
   font:
     text: Roboto
     code: Red Hat Mono
-  # logo: assets/logo.png
-  # favicon: assets/favicon.ico
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   features:
     - navigation.footer
   palette:
