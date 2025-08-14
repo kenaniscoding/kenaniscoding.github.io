@@ -39,8 +39,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/kenan-banal-1392472a9/
     - icon: fontawesome/brands/github
-      link: https://github.com/kenaniscoding
-
+      link: https://github.com/kenaniscoding/mkdocs-resume
 extra_css:
   - stylesheets/extra.css
 
