@@ -1,0 +1,29 @@
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor configs and temporary files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# MkDocs cache (if using mkdocs-material with plugins)
+.cache/
+
+# Python packaging
+build/
+dist/
+*.egg-info/

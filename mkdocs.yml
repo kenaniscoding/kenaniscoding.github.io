@@ -1,0 +1,40 @@
+site_name: Kenan's Resume Docs
+theme: # https://www.youtube.com/watch?v=xlABhbnNrfI
+  name: material
+  font:
+    text: Roboto
+    code: Red Hat Mono
+  # logo: assets/logo.png
+  # favicon: assets/favicon.ico
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:yourname@gmail.com
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+
+copyright: Copyright &copy; 2025 Kenan Banal
