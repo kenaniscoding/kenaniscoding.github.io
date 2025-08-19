@@ -40,7 +40,7 @@ High School Diploma — _With High Honors_
 
 #### **Carabao Mango Sorter & Grader with Machine Learning**
 - Computer vision + ML system to sort and grade Carabao mangoes.  
-- Built image acquisition with Raspberry Pi camera + dual conveyor belts.  
+- Built image acquisition with `Raspberry Pi` camera + dual conveyor belts.  
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kenaniscoding/thesisLaTeX)
 #### **Documentation Website**
 - Build a static documentation website containing my resume
@@ -52,11 +52,12 @@ High School Diploma — _With High Honors_
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kenaniscoding/LBYCPG3_FinalProject)
 
 #### Traffic Light PCB
-- Designing an existing circuit on Autodesk EAGLE while physically etching and soldering the electrical components
-- Testing of the schematic was done on Multisim
+- Designing an existing circuit on `Autodesk EAGLE` while physically etching and soldering the electrical components
+
+- Testing of the schematic was done on `Multisim` 
 
 #### **Text-Based Task Manager**
-- Shell-script-based task manager for Ubuntu Linux.  
+- Shell-script-based task manager for Ubuntu `Linux`.  
 - Presented the results at an _IEEE_ conference named _Human-Computer Interaction and Emerging Media (HCIEM) 2024_.
 
 ---
@@ -64,10 +65,10 @@ High School Diploma — _With High Honors_
 ## **Technologies I Like**
 
 **Programming Languages:**  
-`Python` · `Java` · `C` · `JavaScript` · `MySQL` · `LaTeX` 
+`Python` · `Java` · `C` · `JavaScript` · `PHP` · `LaTeX` 
 
 **Frameworks & Libraries:**  
-`React` · `Bootstrap` · `Node.js` · `OpenCV` · `TensorFlow` · `PyTorch` · `NumPy`
+`React` · `Material for MkDocs` · `Bootstrap` · `MySQL` · `Node.js` · `OpenCV` · `TensorFlow` · `PyTorch` · `NumPy` 
 
 **Developer Tools:**  
 `Git` · `GitHub` · `VS Code` · `Neovim` · `Linux` 
