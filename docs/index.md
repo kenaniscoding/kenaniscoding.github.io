@@ -8,7 +8,7 @@
     This site is currently under development. Some sections may be incomplete, and content will be updated regularly. Thank you!  
 ---
 
-## 🎓 **Education**
+## **Education**
 #### **De La Salle University**  
 *Sept 2021 — Dec 2025*  
 Bachelor of Science in Computer Engineering  
@@ -20,7 +20,7 @@ High School Diploma — _With High Honors_
 
 ---
 
-## 💼 **Experience**
+## **Experience**
 
 #### **Technology Specialist Intern** — *La Salle Green Hills*  
 <span class="resume-date">May 2025 — Aug 2025</span>  
@@ -36,7 +36,7 @@ High School Diploma — _With High Honors_
 - Managed events, coordinated logistics, and developed reviewer materials  
 ---
 
-## 🛠 **Projects**
+## **Projects**
 
 #### **Carabao Mango Sorter & Grader with Machine Learning**
 - Computer vision + ML system to sort and grade Carabao mangoes.  
@@ -61,16 +61,19 @@ High School Diploma — _With High Honors_
 
 ---
 
-## 🧠 **Skills**
+## **Technologies I Like**
 
 **Programming Languages:**  
-`Python` · `MATLAB` · `Java` · `C` · `JavaScript` · `MySQL` · `LaTeX` · `HTML` · `CSS`  
+`Python` · `Java` · `C` · `JavaScript` · `MySQL` · `LaTeX` 
 
 **Frameworks & Libraries:**  
-`React` · `Bootstrap` · `Node.js` · `OpenCV` · `TensorFlow` · `PyTorch` · `NumPy`  
+`React` · `Bootstrap` · `Node.js` · `OpenCV` · `TensorFlow` · `PyTorch` · `NumPy`
 
 **Developer Tools:**  
-`Git` · `GitHub` · `VS Code` · `Neovim` · `Linux`  
+`Git` · `GitHub` · `VS Code` · `Neovim` · `Linux` 
 
-**Hardware Skills:**  
-`Arduino` · `Raspberry Pi` · `ESP32`
+**Hardware Designer Tools:**  
+`Logisim Evolution`· `Multisim`
+
+**Microcontroller:**  
+`Arduino` · `Raspberry Pi` · `ESP32`· `NodeMCU`
