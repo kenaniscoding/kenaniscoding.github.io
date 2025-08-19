@@ -52,7 +52,7 @@ High School Diploma — _With High Honors_
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kenaniscoding/LBYCPG3_FinalProject)
 
 #### Traffic Light PCB
-- Designing an existing circuit on Autodesk EAGLE and physically etching and soldering the electrical components
+- Designing an existing circuit on Autodesk EAGLE while physically etching and soldering the electrical components
 - Testing of the schematic was done on Multisim
 
 #### **Text-Based Task Manager**
