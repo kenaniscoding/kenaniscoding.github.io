@@ -42,6 +42,7 @@ High School Diploma — _With High Honors_
 - Computer vision + ML system to sort and grade Carabao mangoes.  
 - Built image acquisition with `Raspberry Pi` camera + dual conveyor belts.  
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kenaniscoding/thesisLaTeX)
+
 #### **Documentation Website**
 - Build a static documentation website containing my resume
 - Code with `Material for MkDocs`  
