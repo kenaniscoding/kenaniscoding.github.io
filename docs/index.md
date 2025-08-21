@@ -65,7 +65,7 @@ High School Diploma — _With High Honors_
 ## **Technologies I Like**
 
 **Developer Tools:**  
-`Git` · `GitHub` · `VS Code` · `Neovim` · `Linux` 
+`Git` · `GitHub` · `VS Code` · `Neovim` · `Tmux` · `Linux` 
 
 **Frameworks & Libraries:**  
 `React` · `Material for MkDocs` · `Bootstrap` · `MySQL` · `Node.js` · `PyTorch` 
