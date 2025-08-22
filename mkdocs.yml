@@ -2,7 +2,7 @@
 # mkdocs build
 # mkdocs serve
 # mkdocs -h
-site_name: Static/Normal Website
+site_name: Kenan's Web
 theme: # https://www.youtube.com/watch?v=xlABhbnNrfI
   name: material
   font:
