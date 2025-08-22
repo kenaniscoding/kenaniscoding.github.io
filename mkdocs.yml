@@ -12,6 +12,10 @@ theme: # https://www.youtube.com/watch?v=xlABhbnNrfI
   favicon: assets/favicon.png
   features:
     - navigation.footer
+    - content.action.edit
+    - content.action.view
+  icon:
+    repo: fontawesome/brands/github
   palette:
     # Dark Mode
     - scheme: slate
