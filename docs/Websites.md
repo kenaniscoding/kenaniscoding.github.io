@@ -3,7 +3,7 @@ _These are some websites I coded which are still up so check them out._
 
 [**Slots**](https://kenaniscoding.github.io/slot-machine/){:target="_blank" }  
 
-[**Blogs**](https://nextjs-blog-repo.vercel.app/){:target="_blank" }  
+[**Blog**](https://nextjs-blog-repo.vercel.app/){:target="_blank" }  
 
 [**ACME**](https://nextjs-dashboard-psi-rouge-55.vercel.app/){: target="_blank" }  
 
