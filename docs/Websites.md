@@ -2,7 +2,7 @@
 
 ???+ Notes
 
-    _These are some archive websites I coded which are still up so check them out._
+    These are some archive websites I coded which are still up so check them out.
 
 [**Slots**](https://kenaniscoding.github.io/slot-machine/){:target="_blank" }  
 

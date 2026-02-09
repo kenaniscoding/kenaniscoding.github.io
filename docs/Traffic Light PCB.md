@@ -6,7 +6,7 @@
 
 ![autodesk-circuit](assets/imgs/autodesk_circuit.jpeg)
 
-Shown above is the [existing circuit](https://elonics.org/model-traffic-lights-circuit-using-555-ic/) taken from the internet but was still drawn and tested on [Multisim](https://en.wikipedia.org/wiki/NI_Multisim) as shown below  -
+Shown above is the [existing circuit](https://elonics.org/model-traffic-lights-circuit-using-555-ic/) taken from the internet but was still drawn and tested on [Multisim](https://en.wikipedia.org/wiki/NI_Multisim) as shown below 
 
 ![multisim-circuit](assets/imgs/multisim-circuit.png)
 
