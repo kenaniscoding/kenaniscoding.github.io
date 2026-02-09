@@ -6,31 +6,31 @@
 ## **Hardware** 
 
 ### Components
-![components](assets/imgs/thesis_imgs/01_components.png){width="500"}
+![components](assets/imgs/thesis_imgs/01_components.png)
 
 ### Prototype View
-![prototype](assets/imgs/thesis_imgs/02_prototype.png){width="500"}
+![prototype](assets/imgs/thesis_imgs/02_prototype.png)
 
 ## **Software**
 
 ### Raspberry Pi 
-![rpi](assets/imgs/thesis_imgs/03_rpi.png){width="500"}
+![rpi](assets/imgs/thesis_imgs/03_rpi.png)
 
 ### User Interface
-![ui](assets/imgs/thesis_imgs/04_ui.png){width="500"}
+![ui](assets/imgs/thesis_imgs/04_ui.png)
 
 ## **Results**
 
 ### Ripeness 
-![rpt](assets/imgs/thesis_imgs/07_rp_t.png){width="500"}
-![rpg](assets/imgs/thesis_imgs/05_rp_g.png){width="500"}
+![rpt](assets/imgs/thesis_imgs/07_rp_t.png)
+![rpg](assets/imgs/thesis_imgs/05_rp_g.png)
 
 ### Bruises 
-![bpt](assets/imgs/thesis_imgs/08_br_t.png){width="500"}
-![bpg](assets/imgs/thesis_imgs/06_br_g.png){width="500"}
+![bpt](assets/imgs/thesis_imgs/08_br_t.png)
+![bpg](assets/imgs/thesis_imgs/06_br_g.png)
 
 ### Size 
-![area](assets/imgs/thesis_imgs/09_area.png){width="500"}
-![length](assets/imgs/thesis_imgs/11_length.png){width="500"}
-![width](assets/imgs/thesis_imgs/10_width.png){width="500"}
+![area](assets/imgs/thesis_imgs/09_area.png)
+![length](assets/imgs/thesis_imgs/11_length.png)
+![width](assets/imgs/thesis_imgs/10_width.png)
 
