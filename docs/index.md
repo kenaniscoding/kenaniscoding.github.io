@@ -9,6 +9,6 @@
     Thank you for check out my website. Check out the table of content at the top left or search for anything at the top right part of the website.
 
 !!! warning "Website in Progress"
-    This site is currently under development. Some sections may be incomplete, and content will be updated regularly. Thank you!
+    This site is currently under development and content will be updated.
 
 _“We must adjust to changing times and still hold to unchanging principles.”_ - Jimmy Carter
