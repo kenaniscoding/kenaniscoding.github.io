@@ -11,3 +11,4 @@
 !!! warning "Website in Progress"
     This site is currently under development. Some sections may be incomplete, and content will be updated regularly. Thank you!
 
+_“We must adjust to changing times and still hold to unchanging principles.”_ - Jimmy Carter

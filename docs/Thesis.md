@@ -34,3 +34,5 @@
 ![length](assets/imgs/thesis_imgs/11_length.png)
 ![width](assets/imgs/thesis_imgs/10_width.png)
 
+## **Commemoration**
+![grp_members](assets/imgs/thesis_imgs/grp_members.jpg)
