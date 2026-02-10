@@ -4,6 +4,7 @@
 # mkdocs -h
 site_name: Kenan's Web
 theme: # https://www.youtube.com/watch?v=xlABhbnNrfI
+  custom_dir: overrides
   name: material
   font:
     text: Roboto
