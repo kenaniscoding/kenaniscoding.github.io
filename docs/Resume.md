@@ -1,5 +1,5 @@
 #  **Resume** 
-> _Kenan Banal makes things that he is passionate about such which mostly involve software and hardware technologies._
+> Kenan Banal  fresh graduate hoping to learn and use my engineering skills. He has a passion in learning software _(traditional programming and machine learning)_ and hardware _(Soldering and Microcontroller)_ technologies.
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banalkenan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenan-banal-1392472a9/)
@@ -12,7 +12,7 @@
 #### **De La Salle University**  
 *Sept 2021 — Dec 2025*  
 Bachelor of Science in Computer Engineering  
-CGPA: *3.0 / 4.0*  
+CGPA: *3.132 / 4.0*  
 
 #### **La Salle Green Hills**  
 *Sept 2020 — May 2021*  
@@ -43,9 +43,9 @@ High School Diploma — _With High Honors_
 - Built an automated Carabao mango grader and sorter using Machine Learning, Raspberry Pi, and Conveyor Belts. Trained and tested the pretrained machine learning model for the image acquisition system
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kenaniscoding/thesisLaTeX)
 
-#### **Documentation Website**
-- Created a static documentation website containing my resume and other necessary information to compile all my projects.
-- Code with `Material for MkDocs`  
+#### **Personalized FOSS Website**
+- Created my own FOSS _(Free and Open Source)_ personal website with features such as quick search, video feed, and comment section.
+- Code with `Material for MkDocs`  and `Giscus`
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kenaniscoding/mkdocs-resume)
 
 #### **Text-Based Task Manager**
@@ -64,7 +64,7 @@ High School Diploma — _With High Honors_
 
 ## **Technologies I Like**
 **Languages:**  
-`Python` · `Java` · `C` · `PHP` · `MySQL` · `JavaScript` · `React` · `LaTeX`
+`Python` · `Java` · `C` · `PHP` · `MySQL` · `JavaScript` · `LaTeX`
 
 **Developer Tools:**  
 `Git` · `VS Code` · `Neovim` · `Tmux` · `Linux`
