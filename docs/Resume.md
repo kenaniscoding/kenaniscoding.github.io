@@ -10,7 +10,7 @@
 
 ## **Education**
 #### **De La Salle University**  
-*Sept 2021 — Dec 2025*  
+*Sept 2021 — Dec 2026*  
 Bachelor of Science in Computer Engineering  
 CGPA: *3.132 / 4.0*  
 
